@@ -1,3 +1,6 @@
+It's a system that does sum, subtraction, collecting interest, delete, etc.
+This was done while the start of learning Redux.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
